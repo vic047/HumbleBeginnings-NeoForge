@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_log"
+    },
+    {
+      "item": "humble_beginnings:primitive_axe"
+    }
+  ],
+  "result": {
+    "item": "minecraft:oak_planks"
+  }
+}

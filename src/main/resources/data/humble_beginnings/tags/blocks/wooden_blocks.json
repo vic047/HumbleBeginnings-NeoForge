@@ -1,0 +1,11 @@
+{
+  "values": [
+    "minecraft:logs",
+    "minecraft:planks",
+    "minecraft:wooden_stairs",
+    "minecraft:wooden_slabs",
+    "forge:barrels/wooden",
+    "forge:chests/wooden",
+    "forge:bookshelves"
+  ]
+}

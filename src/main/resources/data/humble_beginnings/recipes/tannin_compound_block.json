@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "humble_beginnings:tannin_compound"
+    }
+  },
+  "result": {
+    "item": "humble_beginnings:tannin_compound_block"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "humble_beginnings:tannin_compound_block"
+    }
+  ],
+  "result": {
+    "item": "humble_beginnings:tannin_compound",
+    "count": 9
+  }
+}

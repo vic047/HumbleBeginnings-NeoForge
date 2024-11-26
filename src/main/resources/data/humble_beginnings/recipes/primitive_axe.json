@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "I#",
+    "I "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:stick"
+    },
+    "#": {
+      "item": "humble_beginnings:sharp_flint"
+    }
+  },
+  "result": {
+    "item": "humble_beginnings:primitive_axe"
+  }
+}

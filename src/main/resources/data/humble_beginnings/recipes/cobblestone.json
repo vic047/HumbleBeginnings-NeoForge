@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "humble_beginnings:pebble"
+    }
+  },
+  "result": {
+    "item": "minecraft:cobblestone"
+  }
+}

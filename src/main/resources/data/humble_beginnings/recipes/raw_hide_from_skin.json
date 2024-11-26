@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "humble_beginnings:sharp_flint"
+    },
+    {
+      "tag": "humble_beginnings:skins"
+    }
+  ],
+  "result": {
+    "item": "humble_beginnings:hide_raw",
+    "count": 1
+  }
+}

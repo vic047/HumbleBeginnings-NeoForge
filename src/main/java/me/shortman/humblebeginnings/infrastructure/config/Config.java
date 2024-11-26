@@ -1,9 +1,10 @@
-package me.shortman.humblebeginnings;
+package me.shortman.humblebeginnings.infrastructure.config;
 
 import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+import me.shortman.humblebeginnings.HumbleBeginnings;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
@@ -42,6 +43,10 @@ public class Config
     public static int magicNumber;
     public static String magicNumberIntroduction;
     public static Set<Item> items;
+
+    public static ModConfigSpec getSpec(){
+        return SPEC;
+    }
 
     private static boolean validateItemName(final Object obj)
     {

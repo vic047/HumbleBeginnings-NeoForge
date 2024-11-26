@@ -1,0 +1,36 @@
+{
+  "flint_hit": {
+    "subtitle": "subtitles.flint.hit",
+    "sounds": [
+      {
+        "name": "humble_beginnings:flint_hit1",
+        "stream": false
+      },
+      {
+        "name": "humble_beginnings:flint_hit2",
+        "stream": false
+      },
+      {
+        "name": "humble_beginnings:flint_hit3",
+        "stream": false
+      }
+    ]
+  },
+  "flint_break": {
+    "subtitle": "subtitles.flint.break",
+    "sounds": [
+      {
+        "name": "humble_beginnings:flint_break1",
+        "stream": false
+      },
+      {
+        "name": "humble_beginnings:flint_break2",
+        "stream": false
+      },
+      {
+        "name": "humble_beginnings:flint_break3",
+        "stream": false
+      }
+    ]
+  }
+}
